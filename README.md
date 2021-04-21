@@ -19,3 +19,5 @@
 
 [Migration Guide](https://webpack.js.org/migrate/5/)
 
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/bbqrcck7dj1n4ns1/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-1-1/branch/main)
